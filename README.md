@@ -20,10 +20,13 @@ This project is an Age Calculator application built using Python's Tkinter libra
 
 ```plaintext
 .
+├── AgeApp.exe           # Executable file for the application
 ├── AgeApp.py            # Main application script
-├── requirements.txt     # Python dependencies
+├── LICENSE              # License for the project
 ├── README.md            # Project documentation
-└── transparent.png      # Transparent background image
+├── my.ico               # Icon file for the executable
+├── requirements.txt     # Python dependencies
+└── screenshot.png       # Screenshot of the application
 ```
 
 ## Getting Started
